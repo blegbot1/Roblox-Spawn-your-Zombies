@@ -1,5 +1,4 @@
--- ELITE HUB | ЗАЩИЩЁННЫЙ АВТОФАРМ
-
+-- ELITE HUB | ЗАШИФРОВАННЫЙ АВТОФАРМ
 local function a1(...) local t={...} local r="" for i=1,#t do r=r..t[i] end return r end
 local function b2(...) local t={...} local r="" for i=#t,1,-1 do r=r..t[i] end return r end
 
